@@ -1,0 +1,1 @@
+import{bl as a}from"./index.24ce2781.js";const d={randomNumber:()=>Math.floor(Math.random()*1e3+1)},r=a("tab",{state:()=>({tabs:[],selectedTab:""}),actions:{addTab(t){let s=t.id;this.tabs.find(e=>e.id==s)||null||this.tabs.push(t),this.selectedTab=t.id}}});export{d as h,r as u};
