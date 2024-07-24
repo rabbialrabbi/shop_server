@@ -1,0 +1,1 @@
+import{bm as e,b3 as t,b4 as a}from"./index.49b3a9ac.js";const i=e("user",{state:()=>({users:[],editModalStatus:!1}),getters:{},actions:{async getUserList(r){let s=await t.get(a.users);this.users=s.data.data}}});export{i as u};
