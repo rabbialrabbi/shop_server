@@ -1,0 +1,1 @@
+import{o as a,c as o,a as r,w as l,b as c,t as n,e as p,f as i,F as m}from"./index.9fedba82.js";const u={class:"pb-2"},f={__name:"PermissionGroup",props:["title"],setup(e){const s=e;return(t,_)=>(a(),o(m,null,[r(p,{cols:"12",class:"pb-0 mt-3"},{default:l(()=>[c("h3",u,n(s.title.toUpperCase()),1)]),_:1}),i(t.$slots,"default")],64))}};export{f as default};
